@@ -31,6 +31,10 @@ python motion_detection.py
 3. Moving objects will be detected and surrounded by a green rectangle.
 4. The movement count in the video will be displayed.
 
+## Screenshots
+![motttionn](https://github.com/hajarbenjat/MotionDetection/assets/138059507/dbfe702b-49cf-4d7d-8276-d6c6bff73799)
+^^ my cat ^^
+
 ## Controls
 
 - Press the "Escape" key to exit the application.
