@@ -1,4 +1,6 @@
 # Real-Time Motion Detection
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 This program uses the Tkinter library to create a user interface that displays the real-time camera feed. It also detects movements in the video stream using the background subtraction method and draws rectangles around the moving objects.
 
