@@ -32,7 +32,8 @@ python motion_detection.py
 4. The movement count in the video will be displayed.
 
 ## Screenshots
-![motttionn](https://github.com/hajarbenjat/MotionDetection/assets/138059507/dbfe702b-49cf-4d7d-8276-d6c6bff73799)
+![gui](https://github.com/hajarbenjat/MotionDetection/assets/138059507/b68d730d-4463-437e-b7cc-1c50d808b4fc)
+
 ^^ my cat ^^
 
 ## Controls
